@@ -12,7 +12,7 @@ Your task entails employing suitable methodologies to determine the factors infl
 
 ## Dashboard 🖼️
 
-![Screenshot 2025-01-12 195148](https://github.com/user-attachments/assets/a1d1127c-5c1c-47bf-b976-d177e57d6be3)
+![Screenshot 2025-01-12 195148](https://github.com/user-attachments/assets/ccb60510-db16-442f-9792-c0f8c225c8f9)
 
 ## Observations 👀
 
